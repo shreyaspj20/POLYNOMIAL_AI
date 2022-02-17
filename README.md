@@ -15,7 +15,7 @@ Deep learning based sequential models could produce better results but due to ti
 
 ## Model Performance
 
-Accuracy :
-Macro Accuracy :
-Micro Accuracy :
-Average Precision :
+Accuracy : 84%
+Macro Accuracy : 70%
+Weighted Accuracy : 83%
+Average Precision : 73%
